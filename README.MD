@@ -27,11 +27,3 @@ Projeto para coletar, transmitir, armazenar e visualizar dados de localização 
 ## Como Funciona
 
 A aplicação coleta dados GPS dos derivadores, transmite via celular para uma estação que armazena as informações e permite visualização e exportação.
-
-## Contribuição
-
-Contribuições são bem-vindas. Faça um fork e envie um pull request.
-
-## Licença
-
-Licenciado sob a [MIT License](LICENSE).
